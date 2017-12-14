@@ -9,9 +9,9 @@ http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/7174.ts
 http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/7175.ts
 #EXTINF:-1,tvg-name="YES_5_HD" tvg-logo="http://www.didifun.co.il/media/LOGO/YES_5_HD.png",yes 5.
 http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/7176.ts
-#EXTINF:-1,tvg-name="YES_Israeli_Cinema" tvg-logo="http://www.didifun.co.il/media/LOGO/YES_Israeli_Cinema.png",קולנוע ישראלי yes.
+#EXTINF:-1,tvg-name="YES_Israeli_Cinema" tvg-logo="http://www.didifun.co.il/media/LOGO/YES_Israeli_Cinema.png",yes. Israeli Theatre
 http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/3978.ts
-#EXTINF:-1,tvg-name="YES_Docu_HD" tvg-logo="http://www.didifun.co.il/media/LOGO/YES_Docu_HD.png",.דוקו yes
+#EXTINF:-1,tvg-name="YES_Docu_HD" tvg-logo="http://www.didifun.co.il/media/LOGO/YES_Docu_HD.png",yes Docu.
 http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/2950.ts
 #EXTINF:-1,tvg-name="HOT_3_HD" tvg-logo="http://www.didifun.co.il/media/LOGO/HOT_3_HD.png",HOT 3
 http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/2954.ts
@@ -21,17 +21,17 @@ http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/7220.ts
 http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/7188.ts
 #EXTINF:-1,tvg-name="HOT_Comedy_Central_HD" tvg-logo="http://www.didifun.co.il/media/LOGO/HOT_Comedy_Central_HD.png",HOT Comedy Central
 http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/7219.ts
-#EXTINF:-1,tvg-name="HOT_Entertainment" tvg-logo="http://www.didifun.co.il/media/LOGO/HOT_Entertainment.png",HOT בידור ישראלי
+#EXTINF:-1,tvg-name="HOT_Entertainment" tvg-logo="http://www.didifun.co.il/media/LOGO/HOT_Entertainment.png",HOT Israeli Entertainment
 http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/2959.ts
 #EXTINF:-1 tvg-logo="http://bstore.9tv.co.il/images/tvcar/logo450x450.png",9
 http://besttv199.aoslive.it.best-tv.com/hls-live/contactgbs-gostreaming1/_definst_/live/stream2.m3u8
-#EXTINF:-1,tvg-name="ISRAEL_Channel_11_Kan" tvg-logo="http://www.didifun.co.il/media/LOGO/11.png",כאן 11
+#EXTINF:-1,tvg-name="ISRAEL_Channel_11_Kan" tvg-logo="http://www.didifun.co.il/media/LOGO/11.png",11 KAN
 http://82.80.192.13/ipbc_IPBCchannel11LVMRepeat/_definst_/smil:IPBCchannel11LVM.smil/playlist.m3u8
-#EXTINF:-1,tvg-name="ISRAEL_Channel_12_Keshet" tvg-logo="http://www.didifun.co.il/media/LOGO/12hd.png",קשת 12
+#EXTINF:-1,tvg-name="ISRAEL_Channel_12_Keshet" tvg-logo="http://www.didifun.co.il/media/LOGO/12hd.png",12 KESHET
 http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/7218.ts
-#EXTINF:-1,tvg-name="ISRAEL_Channel_13_Reshet" tvg-logo="http://www.didifun.co.il/media/LOGO/13HD.png",רשת 13
+#EXTINF:-1,tvg-name="ISRAEL_Channel_13_Reshet" tvg-logo="http://www.didifun.co.il/media/LOGO/13HD.png",13 RESHET
 http://besttv1.aoslive.it.best-tv.com/reshet/studio/index_4.m3u8
-#EXTINF:-1,tvg-name="ISRAEL_Channel_14_Eser" tvg-logo="http://www.didifun.co.il/media/LOGO/14HD.png",14 עשר
+#EXTINF:-1,tvg-name="ISRAEL_Channel_14_Eser" tvg-logo="http://www.didifun.co.il/media/LOGO/14HD.png",14 ESER
 http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/7222.ts
 #EXTINF:-1,tvg-name="YES_Comedy_HD" tvg-logo="http://www.didifun.co.il/media/LOGO/YES_Comedy_HD.png",yes COMEDY.
 http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/7183.ts
@@ -49,7 +49,7 @@ http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/7185.ts
 http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/7187.ts
 #EXTINF:-1,tvg-name="HOT_Drama_HD" tvg-logo="http://www.didifun.co.il/media/LOGO/HOT_Drama_HD.png",HOT Drama
 http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/7186.ts
-#EXTINF:-1,tvg-name="Keshet" tvg-logo="http://www.didifun.co.il/media/LOGO/keshet%20vod%20tv%20live.png",קשת המיטב
+#EXTINF:-1,tvg-name="Keshet" tvg-logo="http://www.didifun.co.il/media/LOGO/keshet%20vod%20tv%20live.png",KESHET - The Best
 http://keshethlslive-lh.akamaihd.net/i/lin1_1@364366/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Arutz_20.svg/1200px-Arutz_20.svg.png",20
 http://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/playlist.m3u8
@@ -57,20 +57,24 @@ http://live.ch20-cdnwiz.com/ch20-abr/ch20-abr/playlist.m3u8
 http://82.80.192.30/shoppingil_ShoppingIL21TVRepeat/_definst_/smil:ShoppingIL21TV.smil/playlist.m3u8
 #EXTINF:-1,tvg-name="YES_Music_24" tvg-logo="http://www.didifun.co.il/media/LOGO/YES_Music_24.png",24
 http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/3973.ts
-#EXTINF:-1,tvg-name="YES_Yam_Tihoni" tvg-logo="http://www.didifun.co.il/media/LOGO/YES_Yam_Tihoni.png",ים תיכוני 25
+#EXTINF:-1,tvg-name="YES_Yam_Tihoni" tvg-logo="http://www.didifun.co.il/media/LOGO/YES_Yam_Tihoni.png",25 MEDITERRANEAN
 http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/3968.ts
-#EXTINF:-1,tvg-name="YES_TRAVEL_CHANNELL" tvg-logo="http://www.didifun.co.il/media/LOGO/YES_TRAVEL_CHANNELL.png",ערוץ הטיולים
+#EXTINF:-1,tvg-name="YES_TRAVEL_CHANNELL" tvg-logo="http://www.didifun.co.il/media/LOGO/YES_TRAVEL_CHANNELL.png",TRAVEL CHANNEL
 http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/5314.ts
-#EXTINF:-1,tvg-name="HOT_Food_Channel" tvg-logo="http://www.didifun.co.il/media/LOGO/HOT_Food_Channel.png",ערוץ האוכל
+#EXTINF:-1,tvg-name="HOT_Food_Channel" tvg-logo="http://www.didifun.co.il/media/LOGO/HOT_Food_Channel.png",FOOD CHANNEL
 http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/3987.ts
-#EXTINF:-1,tvg-name="YES_Health_Channel" tvg-logo="http://www.didifun.co.il/media/LOGO/YES_Health_Channel.png",בריאות
+#EXTINF:-1,tvg-name="YES_Health_Channel" tvg-logo="http://www.didifun.co.il/media/LOGO/YES_Health_Channel.png",HEALTH
 http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/3985.ts
-#EXTINF:-1,tvg-name="YES_Good_Life" tvg-logo="http://www.didifun.co.il/media/LOGO/YES_Good_Life.png",החיים הטובים
+#EXTINF:-1,tvg-name="YES_Good_Life" tvg-logo="http://www.didifun.co.il/media/LOGO/YES_Good_Life.png",GOOD LIFE
 http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/3986.ts
-#EXTINF:-1,tvg-name="YES_Home_Plus" tvg-logo="http://www.didifun.co.il/media/LOGO/YES_Home_Plus.png",בית פלוס
+#EXTINF:-1,tvg-name="YES_Home_Plus" tvg-logo="http://www.didifun.co.il/media/LOGO/YES_Home_Plus.png",HOME PLUS
 http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/3983.ts
-#EXTINF:-1 tvg-logo="http://www.bbtsip.tv/uploads/3/1/6/0/31603209/kan33_1_orig.png",33 מכאן (IPBC)
+#EXTINF:-1 tvg-logo="http://www.bbtsip.tv/uploads/3/1/6/0/31603209/kan33_1_orig.png",33 MAKAN (IPBC)
 http://62.90.90.52/ipbc_IPBCmakantvLVMRepeat/_definst_/smil:IPBCmakantvLVM.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1713238421/logo_sq_400x400.jpg",VIVA
+http://192.99.18.85:1935/live/viva/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://img.wcdn.co.il/f_auto,w_1200,t_54/ar_1.91,c_fill,g_auto/l_black_line,g_south,w_1.0,h_0.1,fl_relative,o_90/g_south_east,x_15,y_12,l_logo2,w_250/1/1/9/2/1192806-46.jpg",VIVA PLUS
+http://192.99.18.85:1935/live/vivaplus/chunklist.m3u8
 #EXTINF:-1,tvg-name="yes_E" tvg-logo="http://www.didifun.co.il/media/LOGO/yes_E.png",E!
 http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/7208.ts
 #EXTINF:-1,tvg-name="YES_discover_sc" tvg-logo="http://www.didifun.co.il/media/LOGO/YES_discover_sc.png",DISCOVERY SCIENCE
@@ -83,9 +87,9 @@ http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/7184.ts
 http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/7196.ts
 #EXTINF:-1,tvg-name="YES_History_HD" tvg-logo="http://www.didifun.co.il/media/LOGO/YES_History_HD.png",HISTORY
 http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/3984.ts
-#EXTINF:-1,tvg-name="Yes_animal_planet" tvg-logo="http://www.didifun.co.il/media/LOGO/Yes_animal_planet.png",Animal planet
+#EXTINF:-1,tvg-name="Yes_animal_planet" tvg-logo="http://www.didifun.co.il/media/LOGO/Yes_animal_planet.png",ANIMAL PLANET
 http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/7190.ts
-#EXTINF:-1,tvg-name="Yes_ego_Total" tvg-logo="http://www.didifun.co.il/media/LOGO/Yes_ego_Total.png",אגו טוטאל
+#EXTINF:-1,tvg-name="Yes_ego_Total" tvg-logo="http://www.didifun.co.il/media/LOGO/Yes_ego_Total.png",EGO TOTAL
 http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/6757.ts
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-r1OXVMkDl10/AAAAAAAAAAI/AAAAAAAAAAA/lCEBhcsL6wU/s288-c-k-no-mo-rj-c0xffffff/photo.jpg",66 Kabbalah La'am
 http://edge1.il.kab.tv/rtplive/tv66-heb-high.stream/playlist.m3u8
@@ -97,10 +101,10 @@ http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/5316.ts
 http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/7206.ts
 #EXTINF:-1,tvg-name="Yes_stars" tvg-logo="http://www.didifun.co.il/media/LOGO/Yes_stars.png",ערוץ הכוכבים
 http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/7159.ts
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3558816368/98d55b12124f2c47d3c89472beabed7f_400x400.png",96 TV מאיר
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/3558816368/98d55b12124f2c47d3c89472beabed7f_400x400.png",96 MEIR TV
 http://82.80.198.100:1935/live/live1/playlist.m3u8
 https://stream72.shidur.net/htvlive2/_definst_/smil:live2.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-JsVXnU_PT_0/AAAAAAAAAAI/AAAAAAAAAAA/p6-_C-1UIRI/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",99 כנסת
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-JsVXnU_PT_0/AAAAAAAAAAI/AAAAAAAAAAA/p6-_C-1UIRI/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",99 KNESSET
 http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8
 #EXTINF:-1,tvg-name="USA_CNN_International" tvg-logo="http://www.didifun.co.il/media/LOGO/USA_CNN_International.png",CNN International
 http://paliptv.net:25461/live/3vEmZPt9it/KVeTpb7hct/4313.ts
