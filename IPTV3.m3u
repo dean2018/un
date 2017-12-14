@@ -1,4 +1,5 @@
- #EXTINF:-1,USA : A and E HD
+#EXTM3U
+#EXTINF:-1,USA : A and E HD
 http://asoiptv.com:9000/live/tadman/tadman/34098.ts
 #EXTINF:-1,USA : BBC America HD
 http://asoiptv.com:9000/live/tadman/tadman/34097.ts
